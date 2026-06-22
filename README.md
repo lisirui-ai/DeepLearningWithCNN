@@ -1,10 +1,22 @@
+<div align="center">
+
 # DeepLearningWithCNN
 
-基于 PyTorch 的卷积神经网络图像分类实战系列
+<p>
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-2.12.0-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-13.2-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataset-FashionMNIST-FF6F00?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataset-10%20Monkeys-FF6F00?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataset-CIFAR--10-FF6F00?style=flat-square&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+</p>
 
-以 **FashionMNIST → 10 Monkeys → CIFAR-10** 为主线，循序渐进演示从基础 CNN 到 ResNet、InceptionNet 等经典架构的完整训练流程
+<p>基于 PyTorch 的卷积神经网络图像分类实战系列</p>
+<p>以 <b>FashionMNIST → 10 Monkeys → CIFAR-10</b> 为主线，循序渐进演示从基础 CNN 到 ResNet、InceptionNet 等经典架构的完整训练流程</p>
+<p>每个 Notebook 均配有详细中文注释，适合深度学习入门与进阶学习</p>
 
-每个 Notebook 均配有详细中文注释，适合深度学习入门与进阶学习
+</div>
 
 ---
 
