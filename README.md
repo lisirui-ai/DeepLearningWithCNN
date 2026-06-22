@@ -87,7 +87,7 @@ DeepLearningWithCNN/
 
 ## 📚 Notebook 介绍
 
-### 1 · FashionMNIST CNN + SELU + AlphaDropout
+### 1.FashionMNIST CNN + SELU + AlphaDropout
 
 > `1.FashionMNISTImage_classification_cnn_selu+lecun+AlphaDropout.ipynb`
 
@@ -109,7 +109,7 @@ DeepLearningWithCNN/
 
 ---
 
-### 2 · FashionMNIST 深度可分离卷积（Separable CNN）
+### 2.FashionMNIST 深度可分离卷积（Separable CNN）
 
 > `2.FashionMNISTImage_classification_SeparableCNN_relu+he+bn2d+AlphaDropout.ipynb`
 
@@ -128,7 +128,7 @@ DeepLearningWithCNN/
 
 ---
 
-### 3 · 10 Monkeys 从头训练 CNN
+### 3.10 Monkeys 从头训练 CNN
 
 > `3.10MonkeysImage_classification_cnn_relu+he+bn2d+AlphaDropout.ipynb`
 
@@ -146,7 +146,7 @@ DeepLearningWithCNN/
 
 ---
 
-### 4 · 10 Monkeys ResNet50 迁移学习 + 微调
+### 4.10 Monkeys ResNet50 迁移学习 + 微调
 
 > `4.10MonkeysImage_classification_resnet50_finetune_DataAugmentation.ipynb`
 
@@ -166,7 +166,7 @@ DeepLearningWithCNN/
 
 ---
 
-### 5 · CIFAR-10 自定义 CNN + 分层采样
+### 5.CIFAR-10 自定义 CNN + 分层采样
 
 > `5.Cifar10Image_classification_cnn_relu+he+bn2d+AlphaDropout_StratifiedSampling_DataAugmentation.ipynb`
 
@@ -184,7 +184,7 @@ DeepLearningWithCNN/
 
 ---
 
-### 6 · CIFAR-10 ResNet-34 手动实现
+### 6.CIFAR-10 ResNet-34 手动实现
 
 > `6.Cifar10Image_classification_ResNet34.ipynb`
 
@@ -207,7 +207,7 @@ DeepLearningWithCNN/
 
 ---
 
-### 7 · CIFAR-10 InceptionNet 手动实现
+### 7.CIFAR-10 InceptionNet 手动实现
 
 > `7.Cifar10Image_classification_Inception.ipynb`
 
