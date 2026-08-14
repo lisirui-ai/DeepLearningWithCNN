@@ -324,7 +324,7 @@ CIFAR-10        →   CIFAR-10        →   CIFAR-10
 **1. 克隆仓库**
 
 ```bash
-git clone https://github.com/your-username/DeepLearningWithCNN.git
+git clone git@github.com:lisirui-ai/DeepLearningWithCNN.git
 cd DeepLearningWithCNN
 ```
 
