@@ -76,7 +76,10 @@ DeepLearningWithCNN/
 │   ├── 6_model/
 │   └── 7_model/
 │
-├── 📄 resnet34_graph.png           # ResNet-34 网络结构可视化
+├── 📂 images/
+│   └── resnet34_cifar10_architecture.png  # ResNet-34 完整前向传播架构图
+│
+├── 📄 resnet34_graph.png           # torchviz 生成的 ResNet-34 计算图
 ├── 📄 submission.csv               # CIFAR-10 测试集预测结果
 ├── 📄 requirements.txt
 ├── 📄 LICENSE
@@ -200,6 +203,9 @@ DeepLearningWithCNN/
 | 模型评估  | 验证集准确率 · TensorBoard 可视化                  |
 | 预测与提交 | 测试集推理 · 生成 `submission.csv`               |
 
+**网络架构图**：
+
+![ResNet-34 CIFAR-10 架构图](images/resnet34_cifar10_architecture.png)
 
 > **残差连接原理** · 跳跃连接将输入 `x` 直接加到卷积输出 `F(x)` 上，使网络学习残差映射 `H(x) = F(x) + x`，解决深层网络的梯度消失与退化问题。
 >
